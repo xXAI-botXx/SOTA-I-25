@@ -43,6 +43,30 @@ Image Classification
    * [code](https://github.com/microsoft/Swin-Transformer)
    * [Swin v1](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)
 
+</details>
 
+<details>
+<summary> <H2> Week 2 </H2><BR>
+Image Classification with Foundation Models
+</summary>
+
+### Backbones
+* [ConvNext v2](https://openaccess.thecvf.com/content/CVPR2023/papers/Woo_ConvNeXt_V2_Co-Designing_and_Scaling_ConvNets_With_Masked_Autoencoders_CVPR_2023_paper.pdf)
+   * [code](https://github.com/facebookresearch/ConvNeXt-V2) 
+* [Clipp V2](https://arxiv.org/pdf/2306.15658.pdf)
+   * [code](https://github.com/UCSC-VLAA/CLIPA)
+   * [CLIP v1 paper](https://arxiv.org/pdf/2103.00020.pdf)
+* [Dino V2](https://arxiv.org/pdf/2304.07193.pdf)
+   * [code](https://github.com/facebookresearch/dinov2)
+   * [DINO V1 paper](https://arxiv.org/pdf/2104.14294.pdf)
+
+### Self-Supervised 
+* [Masked AutoEncoder](https://arxiv.org/pdf/2111.06377.pdf)
+
+### SOTA FM Classification
+* [Battle of the Backbones](https://openreview.net/pdf?id=1yOnfDpkVe)
+   * [code](https://github.com/hsouri/Battle-of-the-Backbones)
+* [ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy](https://arxiv.org/pdf/2311.09215.pdf)
+   * [code](https://github.com/kirill-vish/Beyond-INet) 
 
 </details>
