@@ -70,3 +70,22 @@ Image Classification with Foundation Models
    * [code](https://github.com/kirill-vish/Beyond-INet) 
 
 </details>
+
+<details>
+<summary> <H2> Week 3 </H2><BR>
+Transformers Revised
+</summary>
+
+### Background
+* [Attetion is all you need](https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf)
+* [Why do LLMs attend the first token](https://arxiv.org/pdf/2504.02732)
+
+### Group 1
+* [Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
+* [Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
+
+### Group 2
+* [Self-Attention with Relative Position Representations](https://arxiv.org/abs/1803.02155)
+* [Layer Normalization](https://arxiv.org/abs/1607.06450)
+
+</details>
