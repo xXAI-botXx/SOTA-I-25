@@ -89,3 +89,29 @@ Transformers Revised
 * [Layer Normalization](https://arxiv.org/abs/1607.06450)
 
 </details>
+
+<details>
+<summary> <H2> Week 4 </H2><BR>
+Segmentation I
+</summary>
+
+### Benchmarks
+* [MS-COCO](https://paperswithcode.com/sota/instance-segmentation-on-coco)
+     * [website](https://cocodataset.org/#home)
+* [CityScapes](https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes)
+     * [website](https://www.cityscapes-dataset.com/dataset-overview/)
+
+### Baseline Model
+* [U-Net](https://arxiv.org/pdf/1505.04597v1.pdf)
+     * [PyTorch Code](https://github.com/milesial/Pytorch-UNet)
+     * [Annotated Code](https://nn.labml.ai/unet/index.html)
+
+### SOTA
+* [#1 MS-COCO: EVA: Exploring the Limits of Masked Visual Representation Learning at Scale](https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_EVA_Exploring_the_Limits_of_Masked_Visual_Representation_Learning_at_CVPR_2023_paper.pdf)
+     * [code](https://github.com/baaivision/EVA/tree/master/EVA-01)
+* [#3 ScityScapes: InternImage: Exploring Large-Scale Vision Foundation Models with
+Deformable Convolutions](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_InternImage_Exploring_Large-Scale_Vision_Foundation_Models_With_Deformable_Convolutions_CVPR_2023_paper.pdf)
+     * [code](https://github.com/OpenGVLab/InternImage)
+
+
+</details>
