@@ -152,3 +152,28 @@ Depth Estimation
 
 </details>
 <details>
+
+<summary> <H2> Week 7 </H2><BR>
+ Visual Question Answering 
+</summary>
+
+### Benchmark
+* [VQA v2](https://visualqa.org/)
+   * [VQA paper](https://arxiv.org/pdf/1505.00468)
+   * [VQU v2 paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Goyal_Making_the_v_CVPR_2017_paper.pdf)
+   * [Papers with Coder Leaderboard](https://paperswithcode.com/sota/visual-question-answering-on-vqa-v2-test-dev)
+ 
+### SOTA Paper
+* [PALI: A JOINTLY-SCALED MULTILINGUAL LANGUAGE-IMAGE MODEL](https://openreview.net/pdf?id=mWVoBz4W0u)
+   * [code](https://github.com/kyegomez/PALI) 
+* [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks ](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Image_as_a_Foreign_Language_BEiT_Pretraining_for_Vision_and_CVPR_2023_paper)
+   * [code](https://github.com/microsoft/unilm/tree/master/beit3)
+   * [BEiT v1](https://openreview.net/pdf?id=p-BhZSz59o4)
+   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
+* [LLVA: Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485)
+   * [code](https://github.com/haotian-liu/LLaVA)
+   * [Colab Demo](https://colab.research.google.com/drive/1qsl6cd2c8gGtEW1xV5io7S8NHh-Cp1TV?usp=sharing)
+
+
+</details>
+<details>
