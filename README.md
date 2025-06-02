@@ -201,3 +201,20 @@ Genearitve Models I - SOTA GANs
    * [code](https://github.com/sony/san)
 
 </details>
+
+<details>
+<summary> <H2> Week 9 </H2><BR>
+Genearitve Models II - SOTA Diffusion Models
+</summary>
+
+### Benchmark (same as week 8)
+* [ImageNet 512x512](https://paperswithcode.com/sota/image-generation-on-imagenet-512x512)
+* [Flickr-Faces-HQ (FFHQ)](https://paperswithcode.com/sota/image-generation-on-ffhq-256-x-256)
+   * [Website](https://github.com/NVlabs/ffhq-dataset) 
+
+### Baseline
+* [Original Paper: Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239v2)
+  
+### Do we really need physical Diffusion ?
+* [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://openreview.net/pdf?id=slHNW9yRie0)
+</details>
