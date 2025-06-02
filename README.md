@@ -133,6 +133,7 @@ Segmentation II
 
 </details>
 
+<details>
 <summary> <H2> Week 6 </H2><BR>
 Depth Estimation 
 </summary>
