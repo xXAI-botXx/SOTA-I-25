@@ -219,3 +219,23 @@ Genearitve Models II - SOTA Diffusion Models
 ### Do we really need physical Diffusion ?
 * [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://openreview.net/pdf?id=slHNW9yRie0)
 </details>
+<details>
+<summary> <H2> Week 10 </H2><BR>
+Video Generators
+</summary>
+
+### "Baseline": Sora
+* [OpenAI Sora Tech report](https://openai.com/index/video-generation-models-as-world-simulators/)
+* [non-original Paper](https://arxiv.org/pdf/2402.17177)
+* [demo video](https://www.youtube.com/watch?v=HK6y8DAPN_0) 
+
+### Latte
+* [Paper: Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/pdf/2401.03048v1.pdf)
+* [Code](https://github.com/Vchitect/Latte)
+* [Demo](https://huggingface.co/spaces/kadirnar/Open-Sora)
+
+### MORA
+* [Paper](https://arxiv.org/pdf/2403.13248)
+* [Code](https://github.com/lichao-sun/Mora)
+
+</details>
