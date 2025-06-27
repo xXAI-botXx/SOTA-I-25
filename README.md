@@ -239,3 +239,14 @@ Video Generators
 * [Code](https://github.com/lichao-sun/Mora)
 
 </details>
+
+## Paper for exam
+* [ConvNext v1](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.pdf)
+* [Swin v1](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)
+* [CLIP v1 paper](https://arxiv.org/pdf/2103.00020.pdf)
+* [DINO V1 paper](https://arxiv.org/pdf/2104.14294.pdf)
+* [Masked AutoEncoder](https://arxiv.org/pdf/2111.06377.pdf)
+* [Segment Anything (SAM)](https://arxiv.org/pdf/2304.02643.pdf)
+* [LLVA: Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485)
+* [StyleGAN v1](https://arxiv.org/pdf/1812.04948)
+* [Stable Diffusion V1](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)
