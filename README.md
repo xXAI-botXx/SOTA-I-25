@@ -132,3 +132,131 @@ Segmentation II
      * [Colab Demo](https://colab.research.google.com/drive/1fpKx6b2hQGEx1GK269vOw_sKeV9Rpnuj?usp=sharing)
 
 </details>
+
+<details>
+<summary> <H2> Week 6 </H2><BR>
+Depth Estimation 
+</summary>
+   
+### Overview
+
+
+### Benchmark Monocular
+* [NYU-v2 leaderboard](https://paperswithcode.com/sota/monocular-depth-estimation-on-nyu-depth-v2)
+* [NYU-v2 website](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)
+
+### SOTA Monocular
+* [Depth Anything](https://arxiv.org/pdf/2401.10891v2.pdf)
+   * [code](https://depth-anything.github.io/) 
+* [UniDepth - CVPR '24 + NYU-v2 #1](https://arxiv.org/pdf/2403.18913v1.pdf)
+   * [code](https://github.com/lpiccinelli-eth/unidepth)    
+
+</details>
+<details>
+
+<summary> <H2> Week 7 </H2><BR>
+ Visual Question Answering 
+</summary>
+
+### Benchmark
+* [VQA v2](https://visualqa.org/)
+   * [VQA paper](https://arxiv.org/pdf/1505.00468)
+   * [VQU v2 paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Goyal_Making_the_v_CVPR_2017_paper.pdf)
+   * [Papers with Coder Leaderboard](https://paperswithcode.com/sota/visual-question-answering-on-vqa-v2-test-dev)
+ 
+### SOTA Paper
+* [PALI: A JOINTLY-SCALED MULTILINGUAL LANGUAGE-IMAGE MODEL](https://openreview.net/pdf?id=mWVoBz4W0u)
+   * [code](https://github.com/kyegomez/PALI) 
+* [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks ](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Image_as_a_Foreign_Language_BEiT_Pretraining_for_Vision_and_CVPR_2023_paper)
+   * [code](https://github.com/microsoft/unilm/tree/master/beit3)
+   * [BEiT v1](https://openreview.net/pdf?id=p-BhZSz59o4)
+   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
+* [LLVA: Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485)
+   * [code](https://github.com/haotian-liu/LLaVA)
+   * [Colab Demo](https://colab.research.google.com/drive/1qsl6cd2c8gGtEW1xV5io7S8NHh-Cp1TV?usp=sharing)
+
+
+</details>
+
+<details>
+<summary> <H2> Week 8 </H2><BR>
+Genearitve Models I - SOTA GANs 
+</summary>
+
+### Benchmark
+* [ImageNet 512x512](https://paperswithcode.com/sota/image-generation-on-imagenet-512x512)
+* [Flickr-Faces-HQ (FFHQ)](https://paperswithcode.com/sota/image-generation-on-ffhq-256-x-256)
+   * [Website](https://github.com/NVlabs/ffhq-dataset) 
+#### FID Score
+* [Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/8a1d694707eb0fefe65871369074926d-Paper.pdf)
+* [Problems with FID](https://openreview.net/pdf?id=mLG96UpmbYz)  
+
+### GAN overview
+* [2024 Overview paper](https://iopscience.iop.org/article/10.1088/2632-2153/ad1f77/pdf)
+  
+### GAN SOTA
+* [StyleGAN v2](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670171.pdf)
+   * [code](https://github.com/EvgenyKashin/stylegan2-distillation)
+   * [StyleGAN v1](https://arxiv.org/pdf/1812.04948)
+* [SAN](https://arxiv.org/pdf/2301.12811v4)
+   * [code](https://github.com/sony/san)
+
+</details>
+
+<details>
+<summary> <H2> Week 9 </H2><BR>
+Genearitve Models II - SOTA Diffusion Models
+</summary>
+
+### Benchmark (same as week 8)
+* [ImageNet 512x512](https://paperswithcode.com/sota/image-generation-on-imagenet-512x512)
+* [Flickr-Faces-HQ (FFHQ)](https://paperswithcode.com/sota/image-generation-on-ffhq-256-x-256)
+   * [Website](https://github.com/NVlabs/ffhq-dataset) 
+
+### Baseline
+* [Original Paper: Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239v2)
+  
+### Do we really need physical Diffusion ?
+* [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://openreview.net/pdf?id=slHNW9yRie0)
+</details>
+<details>
+<summary> <H2> Week 10 </H2><BR>
+Video Generators
+</summary>
+
+### "Baseline": Sora
+* [OpenAI Sora Tech report](https://openai.com/index/video-generation-models-as-world-simulators/)
+* [non-original Paper](https://arxiv.org/pdf/2402.17177)
+* [demo video](https://www.youtube.com/watch?v=HK6y8DAPN_0) 
+
+### Latte
+* [Paper: Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/pdf/2401.03048v1.pdf)
+* [Code](https://github.com/Vchitect/Latte)
+* [Demo](https://huggingface.co/spaces/kadirnar/Open-Sora)
+
+### MORA
+* [Paper](https://arxiv.org/pdf/2403.13248)
+* [Code](https://github.com/lichao-sun/Mora)
+
+</details>
+
+<details>
+<summary> <H2> Week 11 </H2><BR>
+3D Generators
+</summary>
+
+
+
+</details>
+
+## Paper for exam
+* [ConvNext v1](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.pdf)
+* [Swin v1](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)
+* [CLIP v1 paper](https://arxiv.org/pdf/2103.00020.pdf)
+* [DINO V1 paper](https://arxiv.org/pdf/2104.14294.pdf)
+* [Masked AutoEncoder](https://arxiv.org/pdf/2111.06377.pdf)
+* [Segment Anything (SAM)](https://arxiv.org/pdf/2304.02643.pdf)
+* [LLVA: Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485)
+* [StyleGAN v1](https://arxiv.org/pdf/1812.04948)
+* [Stable Diffusion V1](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)
+* [VGGT](https://vgg-t.github.io/)
